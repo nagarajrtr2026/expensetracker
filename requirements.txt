@@ -1,1 +1,5 @@
 matplotlib
+fastapi
+uvicorn
+streamlit
+requests
