@@ -1,0 +1,507 @@
+[
+    {
+        "category": "Food",
+        "amount": 441,
+        "date": "2026-03-16"
+    },
+    {
+        "category": "Bills",
+        "amount": 830,
+        "date": "2026-03-11"
+    },
+    {
+        "category": "Travel",
+        "amount": 807,
+        "date": "2026-03-22"
+    },
+    {
+        "category": "Travel",
+        "amount": 464,
+        "date": "2026-03-07"
+    },
+    {
+        "category": "Shopping",
+        "amount": 737,
+        "date": "2026-03-17"
+    },
+    {
+        "category": "Food",
+        "amount": 250,
+        "date": "2026-03-11"
+    },
+    {
+        "category": "Food",
+        "amount": 216,
+        "date": "2026-03-04"
+    },
+    {
+        "category": "Shopping",
+        "amount": 622,
+        "date": "2026-02-21"
+    },
+    {
+        "category": "Travel",
+        "amount": 521,
+        "date": "2026-02-22"
+    },
+    {
+        "category": "Travel",
+        "amount": 597,
+        "date": "2026-02-27"
+    },
+    {
+        "category": "Travel",
+        "amount": 219,
+        "date": "2026-03-13"
+    },
+    {
+        "category": "Food",
+        "amount": 144,
+        "date": "2026-03-20"
+    },
+    {
+        "category": "Travel",
+        "amount": 701,
+        "date": "2026-03-15"
+    },
+    {
+        "category": "Shopping",
+        "amount": 432,
+        "date": "2026-03-01"
+    },
+    {
+        "category": "Bills",
+        "amount": 713,
+        "date": "2026-03-07"
+    },
+    {
+        "category": "Travel",
+        "amount": 396,
+        "date": "2026-02-22"
+    },
+    {
+        "category": "Shopping",
+        "amount": 446,
+        "date": "2026-03-10"
+    },
+    {
+        "category": "Travel",
+        "amount": 911,
+        "date": "2026-03-14"
+    },
+    {
+        "category": "Food",
+        "amount": 730,
+        "date": "2026-03-19"
+    },
+    {
+        "category": "Travel",
+        "amount": 797,
+        "date": "2026-03-07"
+    },
+    {
+        "category": "Bills",
+        "amount": 888,
+        "date": "2026-03-20"
+    },
+    {
+        "category": "Bills",
+        "amount": 903,
+        "date": "2026-03-10"
+    },
+    {
+        "category": "Bills",
+        "amount": 371,
+        "date": "2026-03-03"
+    },
+    {
+        "category": "Food",
+        "amount": 729,
+        "date": "2026-02-24"
+    },
+    {
+        "category": "Shopping",
+        "amount": 619,
+        "date": "2026-03-20"
+    },
+    {
+        "category": "Travel",
+        "amount": 802,
+        "date": "2026-02-24"
+    },
+    {
+        "category": "Travel",
+        "amount": 58,
+        "date": "2026-03-21"
+    },
+    {
+        "category": "Shopping",
+        "amount": 308,
+        "date": "2026-03-19"
+    },
+    {
+        "category": "Bills",
+        "amount": 530,
+        "date": "2026-03-13"
+    },
+    {
+        "category": "Food",
+        "amount": 692,
+        "date": "2026-02-23"
+    },
+    {
+        "category": "Shopping",
+        "amount": 443,
+        "date": "2026-03-21"
+    },
+    {
+        "category": "Travel",
+        "amount": 804,
+        "date": "2026-03-04"
+    },
+    {
+        "category": "Shopping",
+        "amount": 419,
+        "date": "2026-03-14"
+    },
+    {
+        "category": "Shopping",
+        "amount": 442,
+        "date": "2026-03-06"
+    },
+    {
+        "category": "Food",
+        "amount": 590,
+        "date": "2026-03-21"
+    },
+    {
+        "category": "Travel",
+        "amount": 629,
+        "date": "2026-03-05"
+    },
+    {
+        "category": "Shopping",
+        "amount": 845,
+        "date": "2026-03-11"
+    },
+    {
+        "category": "Travel",
+        "amount": 972,
+        "date": "2026-03-20"
+    },
+    {
+        "category": "Shopping",
+        "amount": 67,
+        "date": "2026-02-24"
+    },
+    {
+        "category": "Shopping",
+        "amount": 822,
+        "date": "2026-02-25"
+    },
+    {
+        "category": "Shopping",
+        "amount": 816,
+        "date": "2026-03-14"
+    },
+    {
+        "category": "Shopping",
+        "amount": 908,
+        "date": "2026-02-25"
+    },
+    {
+        "category": "Shopping",
+        "amount": 697,
+        "date": "2026-03-01"
+    },
+    {
+        "category": "Food",
+        "amount": 244,
+        "date": "2026-02-21"
+    },
+    {
+        "category": "Shopping",
+        "amount": 468,
+        "date": "2026-03-14"
+    },
+    {
+        "category": "Bills",
+        "amount": 463,
+        "date": "2026-02-20"
+    },
+    {
+        "category": "Shopping",
+        "amount": 591,
+        "date": "2026-02-25"
+    },
+    {
+        "category": "Food",
+        "amount": 681,
+        "date": "2026-03-10"
+    },
+    {
+        "category": "Shopping",
+        "amount": 183,
+        "date": "2026-02-24"
+    },
+    {
+        "category": "Travel",
+        "amount": 818,
+        "date": "2026-02-28"
+    },
+    {
+        "category": "Bills",
+        "amount": 146,
+        "date": "2026-03-09"
+    },
+    {
+        "category": "Bills",
+        "amount": 715,
+        "date": "2026-02-20"
+    },
+    {
+        "category": "Food",
+        "amount": 818,
+        "date": "2026-03-04"
+    },
+    {
+        "category": "Bills",
+        "amount": 886,
+        "date": "2026-03-15"
+    },
+    {
+        "category": "Shopping",
+        "amount": 261,
+        "date": "2026-03-02"
+    },
+    {
+        "category": "Travel",
+        "amount": 105,
+        "date": "2026-03-08"
+    },
+    {
+        "category": "Travel",
+        "amount": 499,
+        "date": "2026-03-04"
+    },
+    {
+        "category": "Food",
+        "amount": 491,
+        "date": "2026-03-01"
+    },
+    {
+        "category": "Travel",
+        "amount": 839,
+        "date": "2026-03-06"
+    },
+    {
+        "category": "Food",
+        "amount": 506,
+        "date": "2026-02-22"
+    },
+    {
+        "category": "Shopping",
+        "amount": 116,
+        "date": "2026-03-06"
+    },
+    {
+        "category": "Shopping",
+        "amount": 88,
+        "date": "2026-02-27"
+    },
+    {
+        "category": "Bills",
+        "amount": 74,
+        "date": "2026-03-14"
+    },
+    {
+        "category": "Shopping",
+        "amount": 163,
+        "date": "2026-03-14"
+    },
+    {
+        "category": "Bills",
+        "amount": 734,
+        "date": "2026-03-06"
+    },
+    {
+        "category": "Food",
+        "amount": 413,
+        "date": "2026-02-26"
+    },
+    {
+        "category": "Bills",
+        "amount": 904,
+        "date": "2026-03-11"
+    },
+    {
+        "category": "Bills",
+        "amount": 909,
+        "date": "2026-03-02"
+    },
+    {
+        "category": "Travel",
+        "amount": 634,
+        "date": "2026-02-26"
+    },
+    {
+        "category": "Travel",
+        "amount": 348,
+        "date": "2026-03-13"
+    },
+    {
+        "category": "Travel",
+        "amount": 369,
+        "date": "2026-02-20"
+    },
+    {
+        "category": "Food",
+        "amount": 312,
+        "date": "2026-03-11"
+    },
+    {
+        "category": "Travel",
+        "amount": 785,
+        "date": "2026-03-22"
+    },
+    {
+        "category": "Bills",
+        "amount": 876,
+        "date": "2026-02-27"
+    },
+    {
+        "category": "Food",
+        "amount": 423,
+        "date": "2026-03-05"
+    },
+    {
+        "category": "Shopping",
+        "amount": 167,
+        "date": "2026-02-25"
+    },
+    {
+        "category": "Shopping",
+        "amount": 648,
+        "date": "2026-03-07"
+    },
+    {
+        "category": "Shopping",
+        "amount": 202,
+        "date": "2026-03-17"
+    },
+    {
+        "category": "Bills",
+        "amount": 512,
+        "date": "2026-03-06"
+    },
+    {
+        "category": "Shopping",
+        "amount": 74,
+        "date": "2026-02-21"
+    },
+    {
+        "category": "Food",
+        "amount": 894,
+        "date": "2026-03-18"
+    },
+    {
+        "category": "Bills",
+        "amount": 152,
+        "date": "2026-03-08"
+    },
+    {
+        "category": "Shopping",
+        "amount": 546,
+        "date": "2026-03-07"
+    },
+    {
+        "category": "Bills",
+        "amount": 120,
+        "date": "2026-03-13"
+    },
+    {
+        "category": "Bills",
+        "amount": 821,
+        "date": "2026-03-11"
+    },
+    {
+        "category": "Travel",
+        "amount": 335,
+        "date": "2026-02-23"
+    },
+    {
+        "category": "Food",
+        "amount": 623,
+        "date": "2026-03-01"
+    },
+    {
+        "category": "Bills",
+        "amount": 824,
+        "date": "2026-03-10"
+    },
+    {
+        "category": "Shopping",
+        "amount": 419,
+        "date": "2026-03-02"
+    },
+    {
+        "category": "Travel",
+        "amount": 172,
+        "date": "2026-03-07"
+    },
+    {
+        "category": "Travel",
+        "amount": 716,
+        "date": "2026-03-11"
+    },
+    {
+        "category": "Bills",
+        "amount": 910,
+        "date": "2026-03-15"
+    },
+    {
+        "category": "Food",
+        "amount": 265,
+        "date": "2026-02-22"
+    },
+    {
+        "category": "Bills",
+        "amount": 199,
+        "date": "2026-02-27"
+    },
+    {
+        "category": "Travel",
+        "amount": 181,
+        "date": "2026-03-15"
+    },
+    {
+        "category": "Bills",
+        "amount": 179,
+        "date": "2026-03-20"
+    },
+    {
+        "category": "Food",
+        "amount": 736,
+        "date": "2026-03-19"
+    },
+    {
+        "category": "Travel",
+        "amount": 325,
+        "date": "2026-03-13"
+    },
+    {
+        "category": "Food",
+        "amount": 406,
+        "date": "2026-03-22"
+    },
+    {
+        "category": "Bills",
+        "amount": 932,
+        "date": "2026-03-14"
+    },
+    {
+        "category": "Food",
+        "amount": 406.0,
+        "date": "2026-03-22"
+    }
+]
