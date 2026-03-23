@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-API_URL = "http://127.0.0.1:8000"
+API_URL = "https://expensetracker-w0l7.onrender.com"
 
 st.title("💰 Expense Tracker App")
 
