@@ -1,166 +1,158 @@
-#  Expense Tracker (Full Stack App)
+# Expense Tracker Application (Full Stack)
 
-A complete **full-stack expense tracking application** built using:
+## Overview
 
-*  FastAPI (Backend API)
-*  Streamlit (Frontend UI)
-*  Python (Core logic)
-*  Data Visualization
+This project is a full-stack Expense Tracker application built using **FastAPI (backend)** and **Streamlit (frontend)**. It allows users to record daily expenses, categorize them, and analyze spending patterns through a simple and interactive interface.
 
----
-
-##  Features
-
-###  Core Features
-
-* Add Expense (Category, Amount, Date)
-* View All Expenses
-* Delete Expense
-* Filter by Category
-
-###  Analytics
-
-* Total Spending
-* Category-wise Summary
-* Monthly Summary
-* Data Visualization (Bar Chart)
-
-###  Advanced
-
-* FastAPI REST API
-* Streamlit Interactive UI
-* JSON-based storage
-* Modular project structure
+The backend is deployed as a REST API, and the frontend consumes these APIs to provide a user-friendly experience.
 
 ---
 
-##  Project Structure
+## Features
+
+* Add new expenses (amount, category, date)
+* View all recorded expenses
+* Categorize spending
+* Backend API with FastAPI
+* Interactive frontend using Streamlit
+* Deployed and accessible via public URLs
+
+---
+
+## Tech Stack
+
+### Backend
+
+* Python
+* FastAPI
+* Uvicorn
+
+### Frontend
+
+* Streamlit
+* Requests (API communication)
+
+### Deployment
+
+* Render (Backend + Frontend hosting)
+* GitHub (Version control)
+
+---
+
+## Project Structure
 
 ```
 expense-tracker-advanced/
 │
-├── data/
-│   └── expenses.json
-│
-├── frontend/
-│   └── app.py
+├── requirements.txt
 │
 ├── src/
 │   ├── api.py
-│   ├── main.py
-│
 │   ├── routes/
-│   │   └── expense_routes.py
-│
-│   ├── models/
-│   │   └── expense_model.py
-│
 │   ├── services/
-│   │   ├── expense_service.py
-│   │   └── analytics_service.py
-│
+│   ├── models/
 │   ├── storage/
-│   │   └── file_handler.py
+│   └── utils/
 │
-│   ├── utils/
-│   │   ├── date_utils.py
-│   │   └── generator.py
+├── data/
+│   └── expenses.json
 │
-│   └── visualization/
-│       └── charts.py
-│
-├── requirements.txt
-└── README.md
+└── frontend/
+    └── app.py
 ```
 
 ---
 
-##  Installation
+## How It Works
 
-###  Clone Repository
+1. The user interacts with the Streamlit frontend.
+2. Frontend sends HTTP requests to the FastAPI backend.
+3. Backend processes data and stores it in a JSON file.
+4. Response is returned to frontend and displayed.
+
+---
+
+## API Endpoints
+
+| Method | Endpoint  | Description      |
+| ------ | --------- | ---------------- |
+| POST   | /expenses | Add new expense  |
+| GET    | /expenses | Get all expenses |
+
+---
+
+## Installation (Local Setup)
+
+### 1. Clone Repository
 
 ```
-git clone https://github.com/nagarajrtr2026/expensetracker.git
+git clone <your-repo-link>
 cd expense-tracker-advanced
 ```
 
----
-
-### Install Dependencies
+### 2. Install Dependencies
 
 ```
 pip install -r requirements.txt
 ```
 
----
-
-##  Run Backend (FastAPI)
+### 3. Run Backend
 
 ```
-cd src
-uvicorn api:app --reload
+uvicorn src.api:app --reload
 ```
 
- Open in browser:
-http://127.0.0.1:8000
- API Docs:
-http://127.0.0.1:8000/docs
-
----
-
-##  Run Frontend (Streamlit)
+### 4. Run Frontend
 
 ```
 cd frontend
 streamlit run app.py
 ```
 
- Opens automatically in browser
+---
+
+## Deployment
+
+### Backend
+
+* Hosted on Render as a Web Service
+* Runs using Uvicorn
+
+### Frontend
+
+* Hosted on Render as a separate Web Service
+* Uses Streamlit
 
 ---
 
-##  API Endpoints
+## Live URLs
 
-| Method | Endpoint                      | Description        |
-| ------ | ----------------------------- | ------------------ |
-| GET    | /expenses                     | Get all expenses   |
-| POST   | /expenses                     | Add expense        |
-| DELETE | /expenses/{index}             | Delete expense     |
-| GET    | /expenses/total               | Total spending     |
-| GET    | /expenses/category/{category} | Filter by category |
+* Backend API: https://expensetracker-w0l7.onrender.com
+* Frontend App: https://expensetracker-1-fwke.onrender.com
 
 ---
 
-##  Sample JSON
+## Key Learnings
 
-```
-{
-  "category": "Food",
-  "amount": 200,
-  "date": "2026-03-23"
-}
-```
+* Building REST APIs using FastAPI
+* Structuring scalable Python projects
+* Integrating frontend with backend using HTTP requests
+* Debugging deployment issues
+* Deploying full-stack applications on cloud platforms
 
 ---
 
-##  Example Output
+## Future Improvements
 
-* Category-wise spending chart
-* Total expense calculation
-* Filtered results
-
----
-
-##  Future Improvements
-
-*  User Authentication
-*  Database (SQLite / MongoDB)
-*  Mobile App Integration
-*  ML-based Expense Prediction
-*  Deployment (Render / AWS)
+* Database integration (PostgreSQL / MongoDB)
+* User authentication
+* Advanced analytics and charts
+* Mobile-friendly UI
 
 ---
 
-##  Author
+## Conclusion
 
-**NAGARAJ M**
+This project demonstrates a complete full-stack workflow, from development to deployment. It highlights the integration of backend APIs with a frontend interface and provides a solid foundation for building production-ready applications.
+
+---
