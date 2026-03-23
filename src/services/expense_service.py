@@ -1,5 +1,5 @@
-from models.expense_model import Expense
-from utils.date_utils import get_today
+from src.models.expense_model import Expense
+from src.utils.date_utils import get_today
 
 def add_expense(data):
     cat = input("Category: ")
