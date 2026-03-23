@@ -1,5 +1,5 @@
-from src.collections import defaultdict
-from src.datetime import datetime
+from collections import defaultdict
+from datetime import datetime
 
 def total(data):
     return sum(d['amount'] for d in data)
